@@ -1,0 +1,15 @@
+﻿  BankingRecordSystem.cpp
+D:\Repository\C++ Projects\BankingRecordSystem\BankingRecordSystem\SourceCode\BankingRecordSystem.cpp(58,68): error C2678:  binary '>': no operator found which takes a left-hand operand of type 'std::basic_istream<char,std::char_traits<char>>' (or there is no acceptable conversion)
+D:\Repository\C++ Projects\BankingRecordSystem\BankingRecordSystem\SourceCode\BankingRecordSystem.cpp(58,68): message :  could be 'built-in C++ operator>(int, int)'
+D:\Repository\C++ Projects\BankingRecordSystem\BankingRecordSystem\SourceCode\BankingRecordSystem.cpp(58,68): message :  while trying to match the argument list '(std::basic_istream<char,std::char_traits<char>>, int)'
+D:\Repository\C++ Projects\BankingRecordSystem\BankingRecordSystem\SourceCode\BankingRecordSystem.cpp(77,12): warning C4244:  'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\Repository\C++ Projects\BankingRecordSystem\BankingRecordSystem\SourceCode\BankingRecordSystem.cpp(98,12): warning C4244:  'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  Main.cpp
+D:\Repository\C++ Projects\BankingRecordSystem\BankingRecordSystem\SourceCode\BankingRecordSystem.cpp(115,12): warning C4244:  'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\Repository\C++ Projects\BankingRecordSystem\BankingRecordSystem\SourceCode\BankingRecordSystem.cpp(58,68): error C2678:  binary '>': no operator found which takes a left-hand operand of type 'std::basic_istream<char,std::char_traits<char>>' (or there is no acceptable conversion)
+D:\Repository\C++ Projects\BankingRecordSystem\BankingRecordSystem\SourceCode\BankingRecordSystem.cpp(58,68): message :  could be 'built-in C++ operator>(int, int)'
+D:\Repository\C++ Projects\BankingRecordSystem\BankingRecordSystem\SourceCode\BankingRecordSystem.cpp(58,68): message :  while trying to match the argument list '(std::basic_istream<char,std::char_traits<char>>, int)'
+D:\Repository\C++ Projects\BankingRecordSystem\BankingRecordSystem\SourceCode\BankingRecordSystem.cpp(77,12): warning C4244:  'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\Repository\C++ Projects\BankingRecordSystem\BankingRecordSystem\SourceCode\BankingRecordSystem.cpp(98,12): warning C4244:  'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  Generating Code...
+D:\Repository\C++ Projects\BankingRecordSystem\BankingRecordSystem\SourceCode\BankingRecordSystem.cpp(115,12): warning C4244:  'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
